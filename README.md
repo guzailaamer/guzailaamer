@@ -7,6 +7,14 @@ Most of my work focuses on **designing end-to-end AI pipelines** — from data p
 🎓 B.E. in Artificial Intelligence & Machine Learning — Osmania University  
 📍 Hyderabad, India  
 
+## Connect With Me
+
+<p align="left">
+<a href="mailto:guzailaamer03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/guzail"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/AamerGuzail"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
 ---
 
 ## What I Work On
@@ -85,10 +93,4 @@ Transforms documents into structured visual mindmaps using summarization and hie
 
 ---
 
-## Connect With Me
 
-<p align="left">
-<a href="mailto:guzailaamer03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/guzail"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/AamerGuzail"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>

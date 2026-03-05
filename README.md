@@ -1,6 +1,6 @@
-# Hi, I'm Guzail 👋
+# Hi, I'm Guzail Aamer 👋
 
-I build AI systems and intelligent applications using Machine Learning, Generative AI, and Agentic architectures.
+I enjoy building AI and Agentic systems that solve real world problems, using ML, GenAI, and Agentic architectures.
 
 Most of my work focuses on **designing end-to-end AI pipelines** — from data processing and model training to deployment and real-world integration.
 
@@ -19,11 +19,11 @@ Most of my work focuses on **designing end-to-end AI pipelines** — from data p
 
 ## What I Work On
 
-• 🤖 **Machine Learning Systems** — model training, feature engineering, and evaluation  
-• 🧠 **Large Language Models & Generative AI** — prompt engineering, embeddings, RAG pipelines  
-• 🔎 **NLP & Text Intelligence** — entity extraction, summarization, sentiment analysis  
-• ⚙️ **AI Deployment** — building production APIs with FastAPI, Docker, and cloud platforms  
 • 🧩 **Agentic AI Systems** — tool-based LLM workflows and multi-step reasoning systems  
+• 🧠 **Large Language Models & Generative AI** — prompt engineering, embeddings, RAG pipelines  
+• 🤖 **Machine Learning Systems** — model training, feature engineering, and evaluation
+• 🔎 **NLP & Text Intelligence** — entity extraction, summarization, sentiment analysis  
+• ⚙️ **AI Deployment** — building production APIs with FastAPI, Docker, and cloud platforms 
 
 ---
 
